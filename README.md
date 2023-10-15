@@ -9,7 +9,10 @@
 - 👯 I’m looking to collaborate on differents web and mobile proyects
 - 🤔 I’m also interested in Data Science and DevOps.
 
-https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 <p>Connect with me on
 <br>	
