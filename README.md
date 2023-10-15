@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=33&pause=1000&color=2C50F7&random=false&width=440&lines=Hacking+%C3%89tico+%7C+Ciberseguridad;I'm+Bryan+Cordova+%C3%91ahui;Software+%7C+Developer;C0de)](https://git.io/typing-svg)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 
 <h3> Here's some facts about me: </h3>
